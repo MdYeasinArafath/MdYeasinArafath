@@ -66,7 +66,7 @@
 <h1>Skills:</h1>
 
    
-    <h4> 1)HTML 5 </h4>
+  <!--  <h4> 1)HTML 5 </h4> -->
 
    <div class="container__progressbars">
     <div class="progressbar">
@@ -75,13 +75,20 @@
         </svg> 
         <span class="progressbar__text">HTML</span>
     </div>
-    <!--You can add other progress bars here-->
+      
+          <div class="progressbar">
+        <svg class="progressbar__svg">
+            <circle cx="80" cy="80" r="70" class="progressbar__svg-circle circle-html"></circle>
+        </svg> 
+        <span class="progressbar__text">CSS</span>
+    </div>
+    
 </div>
    
    
    
 
-  <h4> 2)CSS 3 </h4>
+  <!--  <h4> 2)CSS 3 </h4>  -->
  
    
    
