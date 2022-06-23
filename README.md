@@ -1,61 +1,3 @@
-<html>
-   <head>
-        <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-<style>
-   .container__progressbars {
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
-    flex-wrap: wrap
-    min-width: 270px;
-    width: 100%;
-    min-height: 100%;
-  }
-.progressbar {
-    position: relative;
-    width: 170px;
-    height: 170px;
-    transform: rotate(-90deg);
-}
-.progressbar__svg {
-    position: relative;
-    width: 100%;
-    height: 100%;
-}
-.progressbar__svg-circle {
-    width: 100%;
-    height: 100%;
-    fill: none;
-    stroke-width: 10;
-    stroke-dasharray: 440;
-    stroke-dashoffset: 440;
-    stroke: white;
-    stroke-linecap: round;
-    transform: translate(5px, 5px);
-}
-.circle-html {
-    stroke: #007bff;
-    /*Set this for the duration of the animation*/
-    animation: anim_circle-html 2s ease-in-out forwards; 
-}
-.progressbar__text {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    padding: 0.25em 0.5em;
-    color: #000; /*Change this to change progressbar text*/
-    font-weight: bold;
-    border-radius: 0.25em;
-    transform: translate(-50%, -50%) rotate(90deg);
-}
-@keyframes anim_circle-html {
-    to {stroke-dashoffset: 0;}
-}
-      </style>
-   </head>
-   <body>
-
 ### HI THERE, MY NAME IS MD. YEASIN ARAFATH.
 #### FULL-STACK WEB DEVELOPER, ANDROID DEVELOPER, WORDPRESS-SHOPIFY-WIX DEVELOPER, DIGITAL MARKETER, AND CONTENT CREATOR.
 <br>
@@ -64,79 +6,17 @@
 <h1>I AM A FULL-STACK WEB DEVELOPER, ANDROID DEVELOPER, WORDPRESS-SHOPIFY-WIX DEVELOPER, DIGITAL MARKETER, AND CONTENT CREATOR.</h1>
 
 <h1>Skills:</h1>
-
-   
-  <!--  <h4> 1)HTML 5 </h4> -->
-
-   <div class="container__progressbars">
-    <div class="progressbar">
-        <svg class="progressbar__svg">
-            <circle cx="80" cy="80" r="70" class="progressbar__svg-circle circle-html"></circle>
-        </svg> 
-        <span class="progressbar__text">HTML</span>
-    </div>
-      
-          <div class="progressbar">
-        <svg class="progressbar__svg">
-            <circle cx="80" cy="80" r="70" class="progressbar__svg-circle circle-html"></circle>
-        </svg> 
-        <span class="progressbar__text">CSS</span>
-    </div>
-    
-</div>
-   
-   
-   
-
-  <!--  <h4> 2)CSS 3 </h4>  -->
- 
-   
-   
-   
-
-  <h4> 3)JAVASCRIPT </h4>
- 
-   
-   
-   
-  <h4> 4)REACT.JS </h4>
-
-   
-   
-   
-  <h4> 5)JAVA </h4>
- 
-   
-   
-   
- <h4> 6)WORDPRESS </h4>
- 
-   
-   
-
- <h4> 7)SHOPIFY </h4>
-  
-
-   
-   
-   
-    <h4> 8)WIX </h4>
-
- 
-
-  
- 
-  <h4> 9)FULL-STACK WEB DEVELOPER </h4>
-  
-
-
-
- <h4> 10)ANDROID DEVELOPER </h4>
-
- 
-
-
-  <h4> 11)DIGITAL MARKETER </h4>
+<h4> 1)HTML 5 </h4>
+<h4> 2)CSS 3 </h4>
+<h4> 3)JAVASCRIPT </h4>  
+<h4> 4)REACT.JS </h4> 
+<h4> 5)JAVA </h4>  
+<h4> 6)WORDPRESS </h4>
+<h4> 7)SHOPIFY </h4>
+<h4> 8)WIX </h4>
+<h4> 9)FULL-STACK WEB DEVELOPER </h4>
+<h4> 10)ANDROID DEVELOPER </h4>
+<h4> 11)DIGITAL MARKETER </h4>
 
 
 
