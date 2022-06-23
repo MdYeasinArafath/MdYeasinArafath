@@ -1,11 +1,22 @@
-### Hi there, MY NAME IS MD. YEASIN ARAFATH.
+### HI THERE, MY NAME IS MD. YEASIN ARAFATH.
 #### FULL-STACK WEB DEVELOPER, ANDROID DEVELOPER, WORDPRESS-SHOPIFY-WIX DEVELOPER, DIGITAL MARKETER, AND CONTENT CREATOR.
 <br>
 <img src="https://github.com/MdYeasinArafath/MdYeasinArafath/blob/main/FINAL%20JOB.png"></img>
 <br>
-I AM A FULL-STACK WEB DEVELOPER, ANDROID DEVELOPER, WORDPRESS-SHOPIFY-WIX DEVELOPER, DIGITAL MARKETER, AND CONTENT CREATOR.
+<h1>I AM A FULL-STACK WEB DEVELOPER, ANDROID DEVELOPER, WORDPRESS-SHOPIFY-WIX DEVELOPER, DIGITAL MARKETER, AND CONTENT CREATOR.</h1>
 
-Skills:<br> 1)HTML 5,<br>2)CSS 3,<br> 3)JAVASCRIPT, <br>4)REACT.JS, <br>5)JAVA, <br>6)WORDPRESS,<br> 7)SHOPIFY,<br> 8)WIX,<br> 9)FULL-STACK WEB DEVELOPER, <br>10)ANDROID DEVELOPER, <br>11)DIGITAL MARKETER.
+<h1>Skills:</h1>
+  <br> <h4> 1)HTML 5, </h4>
+  <br> <h4> 2)CSS 3, </h4>
+  <br> <h4> 3)JAVASCRIPT, </h4>
+  <br> <h4> 4)REACT.JS, </h4>
+  <br> <h4> 5)JAVA, </h4>
+  <br> <h4> 6)WORDPRESS, </h4>
+  <br> <h4> 7)SHOPIFY, </h4>
+  <br> <h4> 8)WIX, </h4>
+  <br> <h4> 9)FULL-STACK WEB DEVELOPER, </h4>
+  <br> <h4> 10)ANDROID DEVELOPER, </h4>
+  <br> <h4> 11)DIGITAL MARKETER. </h4>
 
 - 🔭 I’m currently working on learning programming. 
 - 🌱 I’m currently learning programming. 
