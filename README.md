@@ -6,17 +6,17 @@
 <h1>I AM A FULL-STACK WEB DEVELOPER, ANDROID DEVELOPER, WORDPRESS-SHOPIFY-WIX DEVELOPER, DIGITAL MARKETER, AND CONTENT CREATOR.</h1>
 
 <h1>Skills:</h1>
-  <br> <h4> 1)HTML 5, </h4>
-  <br> <h4> 2)CSS 3, </h4>
-  <br> <h4> 3)JAVASCRIPT, </h4>
-  <br> <h4> 4)REACT.JS, </h4>
-  <br> <h4> 5)JAVA, </h4>
-  <br> <h4> 6)WORDPRESS, </h4>
-  <br> <h4> 7)SHOPIFY, </h4>
-  <br> <h4> 8)WIX, </h4>
-  <br> <h4> 9)FULL-STACK WEB DEVELOPER, </h4>
-  <br> <h4> 10)ANDROID DEVELOPER, </h4>
-  <br> <h4> 11)DIGITAL MARKETER. </h4>
+   <h4> 1)HTML 5, </h4>
+   <h4> 2)CSS 3, </h4>
+   <h4> 3)JAVASCRIPT, </h4>
+   <h4> 4)REACT.JS, </h4>
+   <h4> 5)JAVA, </h4>
+   <h4> 6)WORDPRESS, </h4>
+   <h4> 7)SHOPIFY, </h4>
+   <h4> 8)WIX, </h4>
+   <h4> 9)FULL-STACK WEB DEVELOPER, </h4>
+   <h4> 10)ANDROID DEVELOPER, </h4>
+   <h4> 11)DIGITAL MARKETER. </h4>
 
 - 🔭 I’m currently working on learning programming. 
 - 🌱 I’m currently learning programming. 
