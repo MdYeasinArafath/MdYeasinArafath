@@ -19,7 +19,7 @@
  
  <div class="container">
     <h4> 1)HTML 5 </h4>
-  <p>The .active class animates the progress bar:</p> 
+
   <div class="progress">
     <div class="progress-bar progress-bar-striped active" role="progressbar" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="width:40%">
       40%
@@ -30,7 +30,7 @@
   
  <div class="container">
   <h4> 2)CSS 3 </h4>
-  <p>The .active class animates the progress bar:</p> 
+ 
   <div class="progress">
     <div class="progress-bar progress-bar-striped active" role="progressbar" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="width:40%">
       40%
@@ -41,7 +41,7 @@
   
 <div class="container">
   <h4> 3)JAVASCRIPT </h4>
-  <p>The .active class animates the progress bar:</p> 
+ 
   <div class="progress">
     <div class="progress-bar progress-bar-striped active" role="progressbar" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="width:40%">
       40%
@@ -52,7 +52,6 @@
    
  <div class="container">
   <h4> 4)REACT.JS </h4>
-  <p>The .active class animates the progress bar:</p> 
   <div class="progress">
     <div class="progress-bar progress-bar-striped active" role="progressbar" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="width:40%">
       40%
@@ -63,7 +62,7 @@
   
   <div class="container">
   <h4> 5)JAVA </h4>
-  <p>The .active class animates the progress bar:</p> 
+ 
   <div class="progress">
     <div class="progress-bar progress-bar-striped active" role="progressbar" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="width:40%">
       40%
@@ -74,7 +73,7 @@
   
   <div class="container">
  <h4> 6)WORDPRESS </h4>
-  <p>The .active class animates the progress bar:</p> 
+ 
   <div class="progress">
     <div class="progress-bar progress-bar-striped active" role="progressbar" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="width:40%">
       40%
@@ -85,7 +84,7 @@
   
  <div class="container">
  <h4> 7)SHOPIFY </h4>
-  <p>The .active class animates the progress bar:</p> 
+  
   <div class="progress">
     <div class="progress-bar progress-bar-striped active" role="progressbar" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="width:40%">
       40%
@@ -96,7 +95,7 @@
  
 <div class="container">
     <h4> 8)WIX </h4>
-  <p>The .active class animates the progress bar:</p> 
+
   <div class="progress">
     <div class="progress-bar progress-bar-striped active" role="progressbar" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="width:40%">
       40%
@@ -107,7 +106,7 @@
   
  <div class="container">
   <h4> 9)FULL-STACK WEB DEVELOPER </h4>
-  <p>The .active class animates the progress bar:</p> 
+  
   <div class="progress">
     <div class="progress-bar progress-bar-striped active" role="progressbar" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="width:40%">
       40%
@@ -118,7 +117,7 @@
    
 <div class="container">
  <h4> 10)ANDROID DEVELOPER </h4>
-  <p>The .active class animates the progress bar:</p> 
+
   <div class="progress">
     <div class="progress-bar progress-bar-striped active" role="progressbar" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="width:40%">
       40%
@@ -129,7 +128,7 @@
   
 <div class="container">
   <h4> 11)DIGITAL MARKETER </h4>
-  <p>The .active class animates the progress bar:</p> 
+
   <div class="progress">
     <div class="progress-bar progress-bar-striped active" role="progressbar" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="width:40%">
       40%
